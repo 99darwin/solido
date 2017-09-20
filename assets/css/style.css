@@ -1,0 +1,43 @@
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Noto Sans', sans-serif;
+    
+}
+
+body {
+    background-color: #F8F8F8;
+}
+
+.nav-wrapper {
+    background-color: #252945;
+}
+
+#under-nav {
+    height: 1rem;
+    background-color: #a0a4d9;
+}
+
+.fa {
+    color: #A0A4D9;
+}
+
+.hero img {
+    margin-top: 5rem;
+    width: 100%;
+}
+
+.headline {
+    text-align: center;
+}
+
+#line {
+    background-color: black;
+    height: 1px;
+}
+
+.feature {
+    margin-top: 4rem;
+}
+
+.btn {
+    background-color: #A0A4D9!important;
+}
